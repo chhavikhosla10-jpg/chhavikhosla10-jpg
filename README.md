@@ -1,27 +1,128 @@
-# 💫 About Me:
-👋 Hi, I'm Chhavi Khosla<br><br>🎓 Third-year B.Tech Computer Science Student  <br>💻 Learning programming by building and solving real world problems<br><br>🔭 I'm currently working on<br>- Mini projects focused on problem solving and real world use cases using C++, Python, and Web Development<br><br>🤝 I'm looking to collaborate on<br>- Beginner friendly open source projects<br>- College projects, hackathons, and learning based collaborations<br><br>🆘 I'm looking for help with<br>- Data Structures & Algorithms<br>- Writing clean, structured, and efficient code<br><br>☕️ I'm currently learning<br>- DSA<br>- Git & GitHub<br>- HTML, CSS, JavaScript<br>- Basics of backend development<br><br>
+# 👋 Hi, I'm Chhavi Khosla
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chhavi%20Khosla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chhavikhosla10@gmail.com) 
+<p align="center">
+  <b>💻 B.Tech CSE Student</b> &nbsp; • &nbsp;
+  <b>🤖 Software & AI</b> &nbsp; • &nbsp;
+  <b>🌐 Web Development</b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chhavikhosla10-jpg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chhavikhosla10-jpg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavikhosla10-jpg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chhavikhosla10-jpg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chhavikhosla10-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/chhavikhosla10-jpg">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:chhavikhosla10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chhavikhosla10-jpg&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+🎓 Third-year **B.Tech Computer Science** student passionate about building practical software.
+
+🚀 I enjoy turning ideas into working projects and exploring how **AI, backend systems and web technologies** can solve real-world problems.
+
+🧠 Currently strengthening my skills in **DSA, backend development, AI and data-driven applications**.
+
+💡 I believe in **learning by building, experimenting and shipping projects.**
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Data & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 <a href="https://github.com/chhavikhosla10-jpg/Redrob-TalentOS">Redrob-TalentOS</a>
+
+AI-powered candidate ranking system that analyzes job descriptions and candidate profiles to generate relevance scores and rankings.
+
+**Built with:**
+`Python` `FastAPI` `JavaScript` `HTML/CSS`
+
+</td>
+
+<td width="50%">
+
+### 🧠 <a href="https://github.com/chhavikhosla10-jpg/Prepmate-Ai-Interview-Agent">PrepMate AI Interview Agent</a>
+
+AI-powered interview preparation platform that generates personalized HR & technical questions, model answers, skill-gap analysis and a 7-day roadmap.
+
+**Built with:**
+`Python` `FastAPI` `IBM watsonx.ai` `Granite`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chhavikhosla10-jpg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavikhosla10-jpg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chhavikhosla10-jpg&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20%26%20SQL-10B981?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>Always learning. Always building. Always improving. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
