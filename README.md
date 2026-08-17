@@ -96,11 +96,6 @@ AI-powered interview preparation platform that generates personalized HR & techn
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhavikhosla10-jpg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavikhosla10-jpg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chhavikhosla10-jpg&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
 </p>
 
